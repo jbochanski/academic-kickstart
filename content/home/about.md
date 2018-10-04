@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Galactic Structure ",
+    "Fundamental Stellar Parameters",
+    "Large Astronomical Surveys"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "PhD in Astronomy"
+  institution = "University of Washington"
   year = 2008
+
+[[education.courses]]
+  course = "MS in Astronomy"
+  institution = "University of Washington"
+  year = 2005
+
+[[education.courses]]
+  course = "BS in Astronomy and Astrophysics"
+  institution = "Villanova University"
+  year = 2002
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Assistant Professor of Physics in Rider University‘s Department of Chemistry, Biochemistry, & Physics.  I am also the founder and director of Rider’s Computer Science major.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I specialize in using large surveys, like SDSS, 2MASS and WISE to study the formation and evolution of the Galaxy.
+
+Primarily I use cool, red stars to study two regimes in the Milky Way.   When measuring Galactic structure near the Sun, I use cool, red dwarfs, the most common type of star.  To study the distant Milky Way halo, I use the much more rare, but much brighter, red giants.  Please see my research page for more information and other projects.
