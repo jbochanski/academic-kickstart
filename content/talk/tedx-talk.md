@@ -1,7 +1,7 @@
 +++
 title = "TedX Solebury"
 date = 2018-05-23T14:30:00  # Schedule page publish date.
-draft = true
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
