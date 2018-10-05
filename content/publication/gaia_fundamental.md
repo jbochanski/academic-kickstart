@@ -72,5 +72,5 @@ highlight = true
 image = "headers/gaia.jpg"
 caption = "Gaia"
 
-
++++
 
