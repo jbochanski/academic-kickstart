@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-I am an Assistant Professor of Physics in Rider University‘s Department of Chemistry, Biochemistry, & Physics.  I am also the founder and director of Rider’s Computer Science major.
+I am an Associate Professor of Computer Science & Physics and Chair of Rider University‘s Department of Computer Science & Physics.
 
 I specialize in using large surveys, like SDSS, 2MASS and WISE to study the formation and evolution of the Galaxy.
 
