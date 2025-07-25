@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-I am an Associate Professor of Computer Science & Physics and Chair of Rider University‘s [Department of Computer Science & Physics](https://www.rider.edu/academics/colleges-schools/college-liberal-arts-sciences/departments/computer-science-physics).
+I am an Associate Professor of Computer Science & Physics in Rider University‘s [Department of Computer Science & Physics](https://www.rider.edu/academics/colleges-schools/college-liberal-arts-sciences/departments/computer-science-physics).
 
 I specialize in using large surveys, like SDSS, Gaia, and WISE to study the formation and evolution of the Galaxy.  I'm excited about the future of surveys with WFIRST and the [Vera Rubin Observatory](https://www.lsst.org/).
 
